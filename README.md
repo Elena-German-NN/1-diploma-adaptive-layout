@@ -157,9 +157,3 @@
 
 Для итоговой демонстрации вам нужно использовать сервис GitHub Pages. 
 
-
-
-# 1-diploma-adaptive-layout
-# 1-diploma-adaptive-layout
-# 1-diploma-adaptive-layout
-# 1-diploma-adaptive-layout
